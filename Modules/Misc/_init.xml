@@ -1,0 +1,12 @@
+<Ui xmlns='http://www.blizzard.com/wow/ui/'>
+    <Script file = "_BuffTimer.lua"/>
+    <Script file = "_Commands.lua"/>
+    <Script file = "_Cvar.lua"/>
+    <Script file = "_FriendlistColor.lua"/>
+    <Script file = "_MultigroupIcon.lua"/>
+    <Script file = "_Nameplate.lua"/>
+    <Script file = "_RaidFrame.lua"/>
+    <Script file = "_Repair.lua"/>
+    <Script file = "_ScoreboardClassColor.lua"/>
+    <Script file = "_Sell.lua"/>
+</Ui>

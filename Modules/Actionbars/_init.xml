@@ -1,0 +1,5 @@
+<Ui xmlns='http://www.blizzard.com/wow/ui/'>
+    <Script file = "_Flash.lua"/>
+    <Script file = "_Gryphons.lua"/>
+    <Script file = "_Range.lua"/>
+</Ui>

@@ -1,0 +1,4 @@
+<Ui xmlns='http://www.blizzard.com/wow/ui/'>
+    <Script file = "_SearchBags.lua"/>
+    <Include file = "_SearchBox.xml"/>
+</Ui>

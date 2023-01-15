@@ -1,0 +1,9 @@
+<Ui xmlns='http://www.blizzard.com/wow/ui/'>
+    <Include file = "Actionbars\_init.xml"/>
+    <Include file = "Bags\_init.xml"/>
+    <Include file = "Chats\_init.xml"/>
+    <Include file = "Darkmode\_init.xml"/>
+    <Include file = "Maps\_init.xml"/>
+    <Include file = "Misc\_init.xml"/>
+    <Include file = "Unitframes\_init.xml"/>
+</Ui>
