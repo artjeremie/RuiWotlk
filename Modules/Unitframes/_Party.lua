@@ -2,6 +2,8 @@ local function RuiWotlkPartyFrames()
     local useCompact = GetCVarBool("useCompactPartyFrames");
     if IsInGroup(player) and (not IsInRaid(player)) and (not useCompact) then
         for i = 1, 4 do
+            _G["PartyMemberFrame"..i.."HealthBar"]:SetStatusBarTexture("Interface\\AddOns\\RuiWotlk\\Media\\Unitframes\\Flat")
+            _G["PartyMemberFrame"..i.."ManaBar"]:SetStatusBarTexture("Interface\\AddOns\\RuiWotlk\\Media\\Unitframes\\Flat")
             _G["PartyMemberFrame"..i.."Name"]:SetSize(75,10);
             _G["PartyMemberFrame"..i.."Texture"]:SetTexture("Interface\\Addons\\RuiWotlk\\Media\\Unitframes\\UI-PartyFrame");
             _G["PartyMemberFrame"..i.."Flash"]:SetTexture("Interface\\Addons\\RuiWotlk\\Media\\Unitframes\\UI-PARTYFRAME-FLASH");

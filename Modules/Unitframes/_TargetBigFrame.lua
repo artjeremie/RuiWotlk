@@ -1,6 +1,7 @@
 -- Target Big Frame
 local function RuiWotlkBigTarget(self, forceNormalTexture)
     local classification = UnitClassification(self.unit);
+    self.healthbar:SetStatusBarTexture("Interface\\AddOns\\RuiWotlk\\Media\\Unitframes\\Flat")
     self.highLevelTexture:SetPoint("CENTER", self.levelText, "CENTER", 0,0);
     self.deadText:SetPoint("CENTER", self.healthbar, "CENTER",0,0);
     self.nameBackground:Hide();

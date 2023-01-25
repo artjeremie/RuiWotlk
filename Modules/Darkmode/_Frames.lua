@@ -1,3 +1,4 @@
+-- Credits to: https://www.curseforge.com/wow/addons/rougeui
 local pairs = pairs
 local doneInit
 

@@ -1,3 +1,4 @@
+-- Credits to: https://www.curseforge.com/wow/addons/rougeui
 -- Remove gap in buff timers & color the format
 local function TimeFormat(button, time)
     local duration = _G[button:GetName() .. "Duration"]

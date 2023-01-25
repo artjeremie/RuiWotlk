@@ -1,7 +1,7 @@
 -- ToT Big Frame
 local function RuiWotlkBigToT()
-    TargetFrameToTHealthBar:SetStatusBarTexture("Interface\\Addons\\RuiWotlk\\Media\\Unitframes\\UI-StatusBar");
-    TargetFrameToTManaBar:SetStatusBarTexture("Interface\\Addons\\RuiWotlk\\Media\\Unitframes\\UI-StatusBar");
+    TargetFrameToTHealthBar:SetStatusBarTexture("Interface\\AddOns\\RuiWotlk\\Media\\Unitframes\\Flat")
+    TargetFrameToTManaBar:SetStatusBarTexture("Interface\\AddOns\\RuiWotlk\\Media\\Unitframes\\Flat")
     TargetFrameToTTextureFrameDeadText:ClearAllPoints();
     TargetFrameToTTextureFrameDeadText:SetPoint("CENTER", "TargetFrameToTHealthBar","CENTER",1, 0);
     TargetFrameToTTextureFrameName:SetSize(65,10);

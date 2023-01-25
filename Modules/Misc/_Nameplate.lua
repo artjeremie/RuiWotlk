@@ -1,3 +1,4 @@
+-- Credits to: https://www.curseforge.com/wow/addons/rougeui
 local str_split = string.split
 local UnitGUID = UnitGUID
 local select, hooksecurefunc = select, hooksecurefunc

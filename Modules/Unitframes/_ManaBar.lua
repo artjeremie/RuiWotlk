@@ -5,7 +5,7 @@ local function RuiWotlkTexture(manaBar)
     if ( info ) then
         if ( not manaBar.lockColor ) then
             if not ( info.atlas ) then
-                manaBar:SetStatusBarTexture("Interface\\Addons\\RuiWotlk\\Media\\Unitframes\\Smooth");
+                manaBar:SetStatusBarTexture("Interface\\Addons\\RuiWotlk\\Media\\Unitframes\\Minimalist");
             end
         end
     end

@@ -1,6 +1,7 @@
 -- Player Big frame
 local function RuiWotlkBigPlayer(self)
     PlayerFrameTexture:SetTexture("Interface\\Addons\\RuiWotlk\\Media\\UnitFrames\\UI-TargetingFrame");
+    self.healthbar:SetStatusBarTexture("Interface\\AddOns\\RuiWotlk\\Media\\Unitframes\\Flat")
     self.name:Hide();
     self.name:ClearAllPoints();
     self.name:SetPoint("CENTER", PlayerFrame, "CENTER",50.5, 36);

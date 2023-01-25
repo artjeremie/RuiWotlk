@@ -1,5 +1,5 @@
-PetFrameHealthBar:SetStatusBarTexture("Interface\\Addons\\RuiWotlk\\Media\\Unitframes\\UI-StatusBar");
-PetFrameManaBar:SetStatusBarTexture("Interface\\Addons\\RuiWotlk\\Media\\Unitframes\\UI-StatusBar");
+PetFrameHealthBar:SetStatusBarTexture("Interface\\AddOns\\RuiWotlk\\Media\\Unitframes\\Smooth");
+PetFrameManaBar:SetStatusBarTexture("Interface\\AddOns\\RuiWotlk\\Media\\Unitframes\\Smooth");
 PetFrameHealthBar:ClearAllPoints()
 PetFrameHealthBar:SetPoint("TOPLEFT", 45, -22)
 PetFrameHealthBar:SetHeight(10)

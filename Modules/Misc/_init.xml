@@ -3,10 +3,12 @@
     <Script file = "_Commands.lua"/>
     <Script file = "_Cvar.lua"/>
     <Script file = "_FriendlistColor.lua"/>
+    <Script file = "_ItemLevel.lua"/>
     <Script file = "_MultigroupIcon.lua"/>
     <Script file = "_Nameplate.lua"/>
     <Script file = "_RaidFrame.lua"/>
     <Script file = "_Repair.lua"/>
     <Script file = "_ScoreboardClassColor.lua"/>
     <Script file = "_Sell.lua"/>
+    <Script file = "_Tooltip.lua"/>
 </Ui>

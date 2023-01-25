@@ -21,7 +21,6 @@ local function Text_UpdateStringValues(statusFrame, textString, value, valueMin,
     local value = statusFrame.finalValue or statusFrame:GetValue();
     --local unit = statusFrame.unit
 
-
     local valueDisplay = value;
     local valueMaxDisplay = valueMax;
 

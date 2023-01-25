@@ -1,4 +1,5 @@
 <Ui xmlns='http://www.blizzard.com/wow/ui/'>
+    <Script file = "_AltPortraits.lua"/>
     <Script file = "_Boss.lua"/>
     <Script file = "_Color.lua"/>
     <Script file = "_Combat.lua"/>
@@ -6,10 +7,10 @@
     <Script file = "_Party.lua"/>
     <Script file = "_Pet.lua"/>
     <Script file = "_PlayerBigFrame.lua"/>
-    <Script file = "_Portrait.lua"/>
     <Script file = "_TargetBigFrame.lua"/>
     <Script file = "_TextValue.lua"/>
     <Script file = "_ToTBigFrame.lua"/>
+    <Script file = "_UnitframeFonts.lua"/>
     <Script file = "_UnitHidden.lua"/>
     <Script file = "_Vehicle.lua"/>
 </Ui>
